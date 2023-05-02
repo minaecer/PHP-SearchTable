@@ -1,0 +1,16 @@
+.table{
+    margin-left: 40px;
+    margin-top: 30px;
+    width: 100%;
+}
+
+#searchTags{
+    margin-left: 350px;
+    margin-top: 60px;
+}
+body {
+    background-image:url(pemb.jpg); 
+width: 90%;
+height: 100%;
+background-size:cover;
+} 
